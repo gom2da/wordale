@@ -26,7 +26,6 @@ header {
 }
 
 .menu-bar__icon {
-  padding-top: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
